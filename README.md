@@ -8,6 +8,7 @@
 -->
 
 # Hello GitHub Actions
+## I have added Emoji
 ## I love to see you working!
 
 _Create a GitHub Action and use it in a workflow._
