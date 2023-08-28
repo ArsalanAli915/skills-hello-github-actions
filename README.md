@@ -8,7 +8,9 @@
 -->
 
 # Hello GitHub Actions
-![Adding Emoji](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-psd%2Femoji-element-isolated_41602221.htm&psig=AOvVaw2R43kiSoPNUnDHj3uhTyL_&ust=1693303822373000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPC0q7mO_4ADFQAAAAAdAAAAABAH)
+## I have added Emoji
+## I love to see you working!
+
 _Create a GitHub Action and use it in a workflow._
 
 </header>
